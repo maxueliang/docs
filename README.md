@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 home: true
 heroText: 这个城市没有你
@@ -25,3 +26,7 @@ features:
 - title: Tomorrow
   details: 希望更多的爱好者能够参与进来，帮助这个主题更好的成长
 ---
+=======
+# docs
+啦啦啦
+>>>>>>> 1ad2b8ee3b1b9a0f95c4061739279f50a550aaca
