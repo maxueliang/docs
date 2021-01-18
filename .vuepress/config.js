@@ -1,4 +1,5 @@
 module.exports = {
+  "base":"/docs/",
   "title": "鲨鱼辣椒",
   "description": "物质一分没有 精神所向披靡",
   "dest": "public",
